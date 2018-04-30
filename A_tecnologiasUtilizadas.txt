@@ -1,0 +1,5 @@
+bootstrap
+blade template system
+laravel PHP backend
+eloquent ORM
+mysql BD
